@@ -1,18 +1,17 @@
-WorkManager Codelab
+Blur O Matic App
 ===================================
+Blur-O-Matic, an app that blurs photos and images and saves the result to a file.
+App allows us to select your own image from the photos gallery to blur.
 
-This repository contains the code for the
-[WorkManager Codelab](https://codelabs.developers.google.com/codelabs/android-workmanager):
+## Screenshots
 
-Java version
---------------
+<div style="display:flex;">
+<img alt="App image" src="Screenshots/ss1.png" width="30%">
+<img alt="App image" src="Screenshots/ss2.png" width="30%">
+</div>
 
-The Java version of this codelab is available under the
-[`Java`](https://github.com/googlecodelabs/android-workmanager/tree/java) branch of this
-repository.
-
-Introduction
-------------
+WorkManager
+===========
 
 At I/O 2018 Google announced [Android Jetpack](https://developer.android.com//jetpack/),
 a collection of libraries, tools and architectural guidance to accelerate and simplify the
@@ -49,30 +48,6 @@ Getting Started
 
 1. [Install Android Studio](https://developer.android.com/studio/install.html),
 if you don't already have it.
-2. Download the sample.
-2. Import the sample into Android Studio.
+2. Download
+2. Import into Android Studio.
 3. Build and run the sample.
-
-License
--------
-
-Copyright 2018 Google, Inc.
-
-All image and audio files (including *.png, *.jpg, *.svg, *.mp3, *.wav
-and *.ogg) are licensed under the CC BY 4.0 license. All other files are
-licensed under the Apache 2 license.
-
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the LICENSE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
-
-  http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
